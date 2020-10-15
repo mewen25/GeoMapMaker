@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+path:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.selected {
+  fill: green;
+}
